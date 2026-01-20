@@ -1,3 +1,11 @@
+<p align="center">
+  <img
+    src="./inages/github-banner.png"
+    alt="ClipOffline banner"
+    style="width: 100%; max-width: 100%;"
+  />
+</p>
+
 # ClipOffline
 
 ClipOffline provides desktop tools for downloading video and audio files locally on your computer.
