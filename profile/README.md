@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./inages/github-banner.png"
+    src="./images/github-banner.png"
     alt="ClipOffline banner"
     style="width: 100%; max-width: 100%;"
   />
